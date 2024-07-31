@@ -1,2 +1,2 @@
 # python-darslari
-Ushbu 
+Ushbu Repoda pythonda yozilgan ilk kodlarim mavjud
